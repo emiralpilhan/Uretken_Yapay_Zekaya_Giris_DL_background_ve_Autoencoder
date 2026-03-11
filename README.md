@@ -1,0 +1,1 @@
+# Uretken_Yapay_Zekaya_Giris_DL_background_ve_Autoencoder
